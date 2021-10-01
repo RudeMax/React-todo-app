@@ -8,6 +8,7 @@ class ToDoList extends React.Component {
             {id: 1, value: 'Study Frontend', completed: false},
             {id: 2, value: 'Become a Frontend Developer', completed: false},
             {id: 3, value: 'Buy a lot of cookies!', completed: false},
+            {id: 4, value: 'Inspire Eric', completed: true},
         ]
     }
 

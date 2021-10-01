@@ -1,9 +1,8 @@
-import { useState } from "react";
+import React from 'react';
 import ToDoList from "./ToDoList";
 
 
 function App() {
-  const [todos, setTodos] = useState([]);
 
   return (
     <div className="App">
